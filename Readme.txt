@@ -1,4 +1,4 @@
-	IVISION Facial Recognition in videos
+	IVISION Face Detection and Recognition in videos
 Note:
 The project utilises the following libraries and dependencies.
 -ipython
